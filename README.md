@@ -22,31 +22,22 @@ Remember: Just because the issue you reported was reported here does not mean th
 Reporting Issues
 ----------------
 
-If you encounter a bug while using CS:GO, first search the [issue list](https://github.com/ValveSoftware/Counter-Strike-Global-Offensive/issues) to see if it has already been reported. Include closed issues in your search.
+If you encounter a bug while using CS:GO, first search the [issue list](https://github.com/ValveSoftware/Counter-Strike-Global-Offensive/issues) to see if it has already been reported. Include closed issues in your search. If your issue has been reported, please upvote the issue by clicking the "Add Reaction" button (smiley face with a plus sign) on the root post and adding a thumbs up. Voting helps us determine which issues are important to users without cluttering the bug database. Duplicate issue reports may be closed without comment. 
 
 If it has not been reported, create a new issue with at least the following information:
-
-- what platform this is occuring on: Linux or Mac;
 - a short, descriptive title;
 - a detailed description of the issue, including any output from the command line;
 - steps for reproducing the issue; and
 - your [system information](#system-information).
 
-Please place logs either in a code block (press `M` in your browser for a GFM cheat sheet) or a [gist](https://gist.github.com).
+Please place logs in a [gist](https://gist.github.com), and link them from your report.
 
 ### System information
 
-Your system information must include:
-- your Linux distro or Mac OS version
-- if Linux, your Desktop/Window Manager
-- if Mac, the model and revision of your hardware
-- your Graphics card info (manufacturer, card version), any and all graphics driver versions
-- anything else that you think may be useful (mouse/keyboard, filesystem type, etc).
-
-The preferred and easiest way to get this information is from Steam's Hardware Information viewer from the menu (`Help -> System Information`).
+System information can be gathered from within steam (`Help -> System Information`).
 
 Once your information appears: right-click within the dialog, choose `Select All`, right-click again, and then choose `Copy`.
-Paste this information into your report, preferably in a code block or a [gist](https://gist.github.com).
+Paste this information into a [gist](https://gist.github.com/) and link it from your bug report.
 
 Feature Requests
 -------------------
