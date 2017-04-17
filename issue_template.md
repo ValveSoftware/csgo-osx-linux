@@ -1,6 +1,6 @@
 #### Your system information
 
-* System information from steam in a gist: 
+* System information from steam (`Steam` -> `Help` -> `System Information`) in a [gist](https://gist.github.com/): 
 * Have you checked for system updates?: [Yes/No]
 
 #### Please describe your issue in as much detail as possible:
