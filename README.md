@@ -5,6 +5,9 @@ Please use this repository to report bugs for CS:GO.
 
 The language used for this tracker is English.  If this is a challenge, please consider using an online translator to convert your post into English.  This does not extend to system information, but rather, only to actual report text.
 
+#Notice
+If you are looking for CSGO Cheats, go here: https://github.com/AimTuxOfficial/AimTux. Please for the love of god, Stop Private Messaging us for them.
+
 Conduct
 -------
 
