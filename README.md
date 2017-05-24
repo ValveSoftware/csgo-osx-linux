@@ -3,7 +3,7 @@ Counter-Strike: Global Offensive
 
 Please use this repository to report bugs for CS:GO.
 
-The language used for this tracker is English.  If this is a challenge, please consider using an  online translator to convert your post into English.  This does not extend to system information, but rather, only to actual report text.
+The language used for this tracker is English.  If this is a challenge, please consider using an online translator to convert your post into English.  This does not extend to system information, but rather, only to actual report text.
 
 Conduct
 -------
@@ -20,7 +20,7 @@ Remember: Just because the issue you reported was reported here does not mean th
 Reporting Issues
 ----------------
 
-If you encounter a bug while using CS:GO, first search the [issue list](https://github.com/ValveSoftware/Counter-Strike-Global-Offensive/issues) to see if it has already been reported. Include closed issues in your search. If your issue has been reported, please upvote the issue by clicking the "Add Reaction" button (smiley face with a plus sign) on the root post and adding a thumbs up. Voting helps us determine which issues are important to users without cluttering the bug database. Duplicate issue reports may be closed without comment. 
+If you encounter a bug while using CS:GO, first search the [issue list](https://github.com/ValveSoftware/Counter-Strike-Global-Offensive/issues) to see if it has already been reported. Include closed issues in your search. If your issue has been reported, please upvote the issue by clicking the "Add Reaction" button (smiley face with a plus sign) on the root post and adding a thumbs up. Voting helps us determine which issues are important to users without cluttering the bug database. Duplicate issue reports may be closed without comment.
 
 Note: Comments do not count as votes.
 
