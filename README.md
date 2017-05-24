@@ -1,9 +1,7 @@
 Counter-Strike: Global Offensive
 ==============
 
-This is the README for the CS:GO Linux and Mac client.
-
-Please use this repository to report bugs for CS:GO on Linux and Mac.
+Please use this repository to report bugs for CS:GO.
 
 The language used for this tracker is English.  If this is a challenge, please consider using an  online translator to convert your post into English.  This does not extend to system information, but rather, only to actual report text.
 
@@ -24,20 +22,28 @@ Reporting Issues
 
 If you encounter a bug while using CS:GO, first search the [issue list](https://github.com/ValveSoftware/Counter-Strike-Global-Offensive/issues) to see if it has already been reported. Include closed issues in your search. If your issue has been reported, please upvote the issue by clicking the "Add Reaction" button (smiley face with a plus sign) on the root post and adding a thumbs up. Voting helps us determine which issues are important to users without cluttering the bug database. Duplicate issue reports may be closed without comment. 
 
+Note: Comments do not count as votes.
+
 If it has not been reported, create a new issue with at least the following information:
 - a short, descriptive title;
-- a detailed description of the issue, including any output from the command line;
+- a detailed description of the issue, including any output from the command line in a [gist](https://gist.github.com);
 - steps for reproducing the issue; and
 - your [system information](#system-information).
 
-Please place logs in a [gist](https://gist.github.com), and link them from your report.
+Please place logs in a [gist](https://gist.github.com), and link to them from your report.
+
+When possible, please include a differential between a working configuration and the reported issue.
+
+If a crash is involved, please include any CrashIDs or minidumps related to the issue in an archive. Archives can be drag and dropped into the text box of github.
+
+For tracking purposes, there should be one issue per issue report.
 
 ### System information
 
 System information can be gathered from within steam (`Help -> System Information`).
 
 Once your information appears: right-click within the dialog, choose `Select All`, right-click again, and then choose `Copy`.
-Paste this information into a [gist](https://gist.github.com/) and link it from your bug report.
+Paste this information into a [gist](https://gist.github.com/) and include a link to it from your bug report.
 
 Feature Requests
 -------------------
