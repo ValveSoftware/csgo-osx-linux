@@ -1,6 +1,12 @@
 Counter-Strike: Global Offensive
 ==============
 
+YO!!!!!
+------------------------------------------------------------------------------------------------------------------------------------
+---> check my boys mixtape , shits fire!!!, hes on tha come up!!! https://www.youtube.com/watch?v=olHzDtLsNrY                  <---
+------------------------------------------------------------------------------------------------------------------------------------
+back to yo readme bruh...
+
 Please use this repository to report bugs for CS:GO.
 
 The language used for this tracker is English.  If this is a challenge, please consider using an online translator to convert your post into English.  This does not extend to system information, but rather, only to actual report text.
