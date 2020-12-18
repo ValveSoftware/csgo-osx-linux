@@ -20,7 +20,7 @@ Remember: Just because the issue you reported was reported here does not mean th
 Reporting Issues
 ----------------
 
-If you encounter a bug while using CS:GO, first search the [issue list](https://github.com/ValveSoftware/Counter-Strike-Global-Offensive/issues) to see if it has already been reported. Include closed issues in your search. If your issue has been reported, please upvote the issue by clicking the "Add Reaction" button (smiley face with a plus sign) on the root post and adding a thumbs up. Voting helps us determine which issues are important to users without cluttering the bug database. Duplicate issue reports may be closed without comment.
+If you encounter a bug while using CS:GO, first search the [issue list](https://github.com/ValveSoftware/csgo-osx-linux/issues?q=is%3Aissue) to see if it has already been reported. Include closed issues in your search. If your issue has been reported, please upvote the issue by clicking the "Add Reaction" button (smiley face with a plus sign) on the root post and adding a thumbs up. Voting helps us determine which issues are important to users without cluttering the bug database. Duplicate issue reports may be closed without comment.
 
 Note: Comments do not count as votes.
 
@@ -48,7 +48,7 @@ Paste this information into a [gist](https://gist.github.com/) and include a lin
 Feature Requests
 -------------------
 
-This repository is not meant for CS:GO feature requests. There are forums dedicated to general CS:GO discussion at http://forums.steampowered.com/forums/forumdisplay.php?f=1188.
+This repository is not meant for CS:GO feature requests. There are forums dedicated to general CS:GO discussion at https://steamcommunity.com/app/730/discussions/.
 
 Linux Specific
 ==============
