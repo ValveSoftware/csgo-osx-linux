@@ -62,7 +62,7 @@ Some of the issue you may be experiencing are due to the various video drivers. 
 
 AMD Steam Linux forum for reporting **compatibility and performance issues with AMD hardware**:
 
-https://community.amd.com/community/devgurus/steam-linux
+https://community.amd.com/t5/support-forums/ct-p/supprtforums
 
 The AMD Open Source driver is a part of Mesa, so use the links under "Intel" to report issues with it.
 
