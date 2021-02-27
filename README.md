@@ -58,15 +58,7 @@ Driver Contact Information
 
 Some of the issue you may be experiencing are due to the various video drivers.  Here is an incomplete list of places that you might be able to file bugs or get additional help:
 
-### AMD
-
-AMD Steam Linux forum for reporting **compatibility and performance issues with AMD hardware**:
-
-https://community.amd.com/community/devgurus/steam-linux
-
-The AMD Open Source driver is a part of Mesa, so use the links under "Intel" to report issues with it.
-
-### Intel
+### AMD / Intel Open Source driver
 
 For discussions, there is the mesa-users email list:
 
