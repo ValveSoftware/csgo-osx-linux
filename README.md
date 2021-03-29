@@ -71,9 +71,9 @@ http://mesa3d.org/bugs.html
 ### NVIDIA
 
 NVIDIA supported drivers
-- https://devtalk.nvidia.com/default/board/98
+- https://forums.developer.nvidia.com/c/gpu-unix-graphics/linux/148
 
 Open Source NVIDIA driver (nouveau)
-- http://nouveau.freedesktop.org/wiki
+- https://nouveau.freedesktop.org/
 
 If you know of any other places, please let us know.
