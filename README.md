@@ -62,16 +62,16 @@ Some of the issue you may be experiencing are due to the various video drivers. 
 
 For discussions, there is the mesa-users email list:
 
-http://mesa3d.org/lists.html
+https://docs.mesa3d.org/lists.html
 
 Bugs and feature requests should be logged in bugzilla:
 
-http://mesa3d.org/bugs.html
+https://docs.mesa3d.org/bugs.html
 
 ### NVIDIA
 
 NVIDIA supported drivers
-- https://forums.developer.nvidia.com/c/gpu-unix-graphics/linux/148
+- https://forums.developer.nvidia.com/c/gpu-graphics/linux/148
 
 Open Source NVIDIA driver (nouveau)
 - https://nouveau.freedesktop.org/
