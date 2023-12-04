@@ -1,6 +1,7 @@
 #### Your system information
 
-* System information from steam (`Steam` -> `Help` -> `System Information`) in a [gist](https://gist.github.com/): 
+* System information from steam (`Steam` -> `Help` -> `System Information`) in a [gist](https://gist.github.com/):
+<!-- If on Linux, please include Steam -> Help -> Steam Runtime Diagnostics in the gist. -->
 * Have you checked for system updates?: [Yes/No]
 
 #### Please describe your issue in as much detail as possible:
