@@ -1,7 +1,7 @@
-Counter-Strike: Global Offensive
+Counter-Strike 2
 ==============
 
-Please use this repository to report bugs for CS:GO.
+Please use this repository to report bugs for CS2.
 
 The language used for this tracker is English.  If this is a challenge, please consider using an online translator to convert your post into English.  This does not extend to system information, but rather, only to actual report text.
 
@@ -15,12 +15,12 @@ There are basic rules of conduct that should be followed at all times by everyon
 - Do not use ALL CAPS when creating an issue report.
 - Do not repeatedly update an open issue remarking that the issue persists.
 
-Remember: Just because the issue you reported was reported here does not mean that it is an issue with CS:GO.  As well, should your issue not be resolved immediately, it does not mean that a resolution is not being researched or tested.  Patience is always appreciated.
+Remember: Just because the issue you reported was reported here does not mean that it is an issue with CS2.  As well, should your issue not be resolved immediately, it does not mean that a resolution is not being researched or tested.  Patience is always appreciated.
 
 Reporting Issues
 ----------------
 
-If you encounter a bug while using CS:GO, first search the [issue list](https://github.com/ValveSoftware/csgo-osx-linux/issues?q=is%3Aissue) to see if it has already been reported. Include closed issues in your search. If your issue has been reported, please upvote the issue by clicking the "Add Reaction" button (smiley face with a plus sign) on the root post and adding a thumbs up. Voting helps us determine which issues are important to users without cluttering the bug database. Duplicate issue reports may be closed without comment.
+If you encounter a bug while using CS2, first search the [issue list](https://github.com/ValveSoftware/csgo-osx-linux/issues?q=is%3Aissue) to see if it has already been reported. Include closed issues in your search. If your issue has been reported, please upvote the issue by clicking the "Add Reaction" button (smiley face with a plus sign) on the root post and adding a thumbs up. Voting helps us determine which issues are important to users without cluttering the bug database. Duplicate issue reports may be closed without comment.
 
 Note: Comments do not count as votes.
 
@@ -48,7 +48,7 @@ Paste this information into a [gist](https://gist.github.com/) and include a lin
 Feature Requests
 -------------------
 
-This repository is not meant for CS:GO feature requests. There are forums dedicated to general CS:GO discussion at https://steamcommunity.com/app/730/discussions/.
+This repository is not meant for CS2 feature requests. There are forums dedicated to general CS2 discussion at https://steamcommunity.com/app/730/discussions/.
 
 Linux Specific
 ==============
